@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>公告栏</title><link>https://dyfdannybeluga.github.io/ssmlgg.github.io</link><description>我们会在这里不定期更新公告AwA</description><copyright>公告栏</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dyfdannybeluga.github.io/ssmlgg.github.io</link></image><lastBuildDate>Mon, 08 Jul 2024 12:49:20 +0000</lastBuildDate><managingEditor>公告栏</managingEditor><ttl>60</ttl><webMaster>公告栏</webMaster><item><title>这是一个Issues</title><link>https://dyfdannybeluga.github.io/ssmlgg.github.io/post/zhe-shi-yi-ge-Issues.html</link><description>如题目所说，这是一个Issues。</description><guid isPermaLink="true">https://dyfdannybeluga.github.io/ssmlgg.github.io/post/zhe-shi-yi-ge-Issues.html</guid><pubDate>Mon, 08 Jul 2024 12:44:15 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>公告栏</title><link>https://dyfdannybeluga.github.io/ssmlgg.github.io</link><description>我们会在这里不定期更新公告AwA</description><copyright>公告栏</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dyfdannybeluga.github.io/ssmlgg.github.io</link></image><lastBuildDate>Wed, 17 Jul 2024 14:30:10 +0000</lastBuildDate><managingEditor>公告栏</managingEditor><ttl>60</ttl><webMaster>公告栏</webMaster><item><title>HMCP服务器插件配置文档</title><link>https://dyfdannybeluga.github.io/ssmlgg.github.io/post/HMCP-fu-wu-qi-cha-jian-pei-zhi-wen-dang.html</link><description>拖进Plugins文件夹之后重启&#13;
+在/Plugins/hmcp/config.yml中配置您服务器的目录&#13;
+**config.yml**&#13;
+`DeluxeMenus_path: 'Path'&#13;
+gui_menu_path: 'Path'&#13;
+#填写绝对路径&#13;
+#例：&#13;
+#Linux:/home/server/plugins/DeluxeMenus&#13;
+#Windows:D:\\server\\plugins\\DeluxeMenus&#13;
+#Windows需要写两个'\'&#13;
+Max_file_size: '512'&#13;
+#设置访问站点的最大大小，单位KiB，建议不要超过1024KiB`&#13;
+config.yml的指引写，若有不懂得联系QQ754168851。</description><guid isPermaLink="true">https://dyfdannybeluga.github.io/ssmlgg.github.io/post/HMCP-fu-wu-qi-cha-jian-pei-zhi-wen-dang.html</guid><pubDate>Wed, 17 Jul 2024 14:29:42 +0000</pubDate></item><item><title>这是一个Issues</title><link>https://dyfdannybeluga.github.io/ssmlgg.github.io/post/zhe-shi-yi-ge-Issues.html</link><description>如题目所说，这是一个Issues。</description><guid isPermaLink="true">https://dyfdannybeluga.github.io/ssmlgg.github.io/post/zhe-shi-yi-ge-Issues.html</guid><pubDate>Mon, 08 Jul 2024 12:44:15 +0000</pubDate></item></channel></rss>
